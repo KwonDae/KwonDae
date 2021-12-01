@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KwonDae
+- 👋 Hi, I’m Daewon Kwon
 - 👀 I’m interested in Android Dev
 - 🌱 I’m currently learning Kotlin, RxJava2, RxKotlin, Jetpack Compose
 - 💞️ I’m looking to collaborate on 
