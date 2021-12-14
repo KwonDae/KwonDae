@@ -18,11 +18,11 @@
 
 ## 👨‍💻 Tech Stack 👨‍💻 
 
-![Android]<img src="https://img.shields.io/badge/Android-4BB749?style=flat-square&logo=Android&logoColor=white"/></a>
-![Kotlin]<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-![Java]<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-![Jetpack]<img src="https://img.shields.io/badge/Jetpack-4BB749?style=flat-square&logo=Private Internet Access&logoColor=white"/></a>
-![Jetpack-Compose]<img src="https://img.shields.io/badge/Jetpack-Compose-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></a>
+![Android](https://img.shields.io/badge/Android-4BB749?style=flat-square&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4BB749?style=flat-square&logo=Private-Internet-Access&logoColor=white)
+![Jetpack-Compose](https://img.shields.io/badge/Jetpack-Compose-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
 
 <!-- Theme dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonDae&count_private=true&hide=contribs,prs&show_icons=true&theme=dracula)
@@ -37,4 +37,7 @@
   
 ## :mailbox_with_mail: Contact
 
-<img src="https://img.shields.io/badge/Jetpack-Compose-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:green201402317@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Bloglovin&logoColor=white)](https://codedaeng.tistory.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/daewon.kwon.14)
+
