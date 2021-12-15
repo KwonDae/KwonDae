@@ -37,7 +37,7 @@
 ## :mailbox_with_mail: Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:green201402317@gmail.com)
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>]<a href="https://daewonkwon.notion.site" target="_blank">example</a>
+<a href="https://daewonkwon.notion.site" target="_blank">[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>]</a>
 
 [![Blog Badge](https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Bloglovin&logoColor=white)](https://codedaeng.tistory.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/daewon.kwon.14)
