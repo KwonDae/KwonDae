@@ -5,12 +5,14 @@
   
 ## 💡 Current Interests
 
-* Kotlin
-* Coroutines
-* Dagger2 Hilt
-* Android Jetpack Compose
-* AAC
-* Clean Architecture
+- Kotlin
+- Coroutines
+- Flow
+- Animation
+- Dagger2 Hilt
+- Android Jetpack Compose
+- AAC
+- Clean Architecture
 
 <!-- *** -->
 
