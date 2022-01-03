@@ -1,7 +1,7 @@
   
 👋 Hello I’m Daewon Kwon
   
-💻 Android Develop Engineer working at kt alpha
+💻 Android Develop Engineer at kt alpha
   
 ## 💡 Current Interests
 
