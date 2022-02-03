@@ -35,7 +35,7 @@
 | 🎓 Education  | 2014.03 ~ 2020.02  | Department of Computer Science and Engineering  | Chungnam National University  |
 | 🏢 Employment |  2019.12 ~ 2022.02 | Android Developer  |  kt alpha |
 | 🎁 usunshop launching |  2020.09 ~ 2021.07 |  New service launch https://play.google.com/store/apps/details?id=kr.co.usunshop |  kt alpha |
-| 🏢 Employment |  2022.02 ~ | Android Developer  |  Whatt(Kakaohairshop) |
+| 🏢 Employment |  2022.02 ~ | Android Developer  |  Wyatt(Kakaohairshop) |
 
   
 ## :mailbox_with_mail: Contact
