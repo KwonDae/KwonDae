@@ -9,7 +9,7 @@
 - Coroutines
 - Flow
 - Animation
-- Dagger2 Hilt
+- Hilt
 - Android Jetpack Compose
 - AAC
 - Clean Architecture
