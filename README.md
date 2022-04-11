@@ -1,7 +1,7 @@
   
 👋 Hello I’m Daewon Kwon
   
-💻 Android Software Engineer in Wyatt(Kakaohairshop)
+💻 Android Software Engineer
 
 ## 💡 Current Interests
 
