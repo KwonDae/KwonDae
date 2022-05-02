@@ -3,7 +3,7 @@
   
 💻 Android Software Engineer
 
-## 💡 Current Interests
+<!-- ## 💡 Current Interests
 
 - Kotlin
 - Coroutines
@@ -13,7 +13,7 @@
 - Android Jetpack Compose
 - AAC
 - Clean Architecture
-
+ -->
 <!-- *** -->
 
 ## 👨‍💻 Tech Stack 👨‍💻 
