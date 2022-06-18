@@ -1,7 +1,7 @@
   
 👋 Hello I’m Daewon Kwon
   
-💻 Android Software Engineer
+💻 Android Developer
 
 <!-- ## 💡 Current Interests
 
