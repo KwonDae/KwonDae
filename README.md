@@ -1,5 +1,5 @@
   
-👋 Hello I’m Daewon Kwon
+👋 Hello
   
 💻 Android Developer
 
