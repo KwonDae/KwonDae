@@ -16,6 +16,7 @@
  -->
  
 <!-- *** -->
+<br>
 
 ![Android](https://img.shields.io/badge/Android-4BB749?style=flat-square&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
@@ -27,7 +28,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonDae&hide=contribs,prs&show_icons=true&theme=dracula)
 
 <!-- *** -->
-
+<br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:green201402317@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://daewonkwon.notion.site)
@@ -35,5 +36,5 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/daewon.kwon.14)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-45B6F2?style=flat-square&logo=LogMeIn&logoColor=white)](https://www.linkedin.com/in/daewon-kwon)
 
-
+<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonDae&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
