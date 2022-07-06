@@ -14,6 +14,7 @@
 - AAC
 - Clean Architecture
  -->
+ 
 <!-- *** -->
 
 ![Android](https://img.shields.io/badge/Android-4BB749?style=flat-square&logo=Android&logoColor=white)
@@ -27,8 +28,6 @@
 
 <!-- *** -->
 
-  
-## :mailbox_with_mail: Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:green201402317@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://daewonkwon.notion.site)
