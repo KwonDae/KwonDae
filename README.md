@@ -25,7 +25,7 @@
 ![Jetpack-Compose](https://img.shields.io/badge/Jetpack-Compose-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
 
 <!-- Theme dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonDae)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonDae&count_private=true&hide=contribs,prs&show_icons=true&theme=dracula)
 
 <!-- *** -->
 
