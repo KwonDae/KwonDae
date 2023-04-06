@@ -31,7 +31,6 @@
 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:green201402317@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://daewonkwon.notion.site)
 [![Blog Badge](https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Bloglovin&logoColor=white)](https://codedaeng.tistory.com)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-45B6F2?style=flat-square&logo=LogMeIn&logoColor=white)](https://www.linkedin.com/in/daewon-kwon)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_dwonk)
